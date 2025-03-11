@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Databases
+*.sql
+
+
+# terraform
+.terraform
+
 # C extensions
 *.so
 
